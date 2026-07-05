@@ -5,7 +5,10 @@
     clippy::assertions_on_constants,
     clippy::suboptimal_flops,
     clippy::unreadable_literal,
-    clippy::float_cmp
+    clippy::float_cmp,
+    clippy::similar_names,
+    clippy::needless_collect,
+    clippy::case_sensitive_file_extension_comparisons
 )]
 
 use crate::classifier::*;
