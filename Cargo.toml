@@ -3,7 +3,7 @@ name = "alice-dlp"
 version = "1.0.0"
 edition = "2021"
 authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
-license = "AGPL-3.0"
+license = "AGPL-3.0 OR LicenseRef-Commercial"
 description = "ALICE Data Loss Prevention: PII detection, data classification, masking, and policy engine"
 
 [lib]
