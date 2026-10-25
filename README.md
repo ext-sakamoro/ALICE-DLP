@@ -10,7 +10,7 @@ Data Loss Prevention module for the ALICE ecosystem. Detects PII, classifies dat
 |------|-------|
 | **Crate** | `alice-dlp` |
 | **Version** | 1.0.0 |
-| **License** | AGPL-3.0 |
+| **License** | LicenseRef-Proprietary |
 | **Edition** | 2021 |
 
 ## Features
